@@ -56,7 +56,7 @@ This data set contains 225 countries' statistics of the followings:
 
 <p align="center">
   
-<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/225%20countries/Outputs/QQplot.jpg" width="550" height="300">
+<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/225%20countries/Outputs/QQplot.jpg" width="500" height="350">
  </p>
 
 
