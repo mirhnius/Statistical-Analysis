@@ -1,35 +1,7 @@
 # Statistical-Analysis
-Statistical Analysis of 225 countries as well as the 15000 best football players in 2019 data set using Regression, CLT, two-sided Hypothesis Test and different Probability distribution, etc. in R.
+Statistical Analysis of 225 countries as well as the 15000 best football players in 2019 data set using **Regression**, **CLT**, **two-sided Hypothesis Test** and **different Probability distribution**, etc. in ***R***.
 
- ### 1. 225 countries data set:
-This data set contains 225 countries' statistics of the followings:
-
-- Population Area (sq. mi.)	
-- Pop. Density (per sq. mi.)	
-- Coastline (coast/area ratio)	
-- Net migration	Infant mortality (per 1000 births)	
-- GDP ($ per capita)	
-- Literacy (%)	
-- Phones (per 1000)	Arable (%)	
-- Crops (%)	
-- Other (%)	
-- Climate	
-- Birthrate	
-- Deathrate	
-- Agriculture	
-- Industry	
-- Service
-
-![image](https://user-images.githubusercontent.com/40741680/125448268-2349d68e-14ae-426a-a94a-0ee7ddc056a7.png)
-
-<p align="center">
-  
-<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/225%20countries/Images/QQplot.jpg" width="550" height="300">
- </p>
-
-
-
-### 2. best football players in 2019 data set:
+### 1. best football players in 2019 data set:
 This data set contains 225 countries' statistics of the followings:
 
 - Player name	
@@ -54,5 +26,39 @@ This data set contains 225 countries' statistics of the followings:
 
 <p align="center">
   
-<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/15000%20best%20football%20players/Images/Regression%20of%20height%20%26%20drib%20composure.png" width="500" height="500">
+<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/15000%20best%20football%20players/Outputs/Regression%20of%20height%20%26%20drib%20composure.png" width="400" height="400">
+ 
+ <img src="https://github.com/niushamir/Statistical-Analysis/blob/main/15000%20best%20football%20players/Outputs/CDF%20of%20ages.png" width="400" height="400">
  </p>
+
+
+
+ ### 2. 225 countries data set:
+This data set contains 225 countries' statistics of the followings:
+
+- Population Area (sq. mi.)	
+- Pop. Density (per sq. mi.)	
+- Coastline (coast/area ratio)	
+- Net migration	Infant mortality (per 1000 births)	
+- GDP ($ per capita)	
+- Literacy (%)	
+- Phones (per 1000)	Arable (%)	
+- Crops (%)	
+- Other (%)	
+- Climate	
+- Birthrate	
+- Deathrate	
+- Agriculture	
+- Industry	
+- Service
+
+![image](https://user-images.githubusercontent.com/40741680/125448268-2349d68e-14ae-426a-a94a-0ee7ddc056a7.png)
+
+<p align="center">
+  
+<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/225%20countries/Outputs/QQplot.jpg" width="550" height="300">
+ </p>
+
+
+
+
