@@ -22,6 +22,10 @@ This data set contains 225 countries' statistics of the followings:
 
 ![image](https://user-images.githubusercontent.com/40741680/125448268-2349d68e-14ae-426a-a94a-0ee7ddc056a7.png)
 
+<p align="center">
+  
+<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/225%20countries/Images/QQplot.jpg" width="550" height="300">
+ </p>
 
 
 
@@ -48,3 +52,7 @@ This data set contains 225 countries' statistics of the followings:
 
 ![image](https://user-images.githubusercontent.com/40741680/125449260-4323ea74-59c0-4082-b1e4-919d3ed26662.png)
 
+<p align="center">
+  
+<img src="https://github.com/niushamir/Statistical-Analysis/blob/main/15000%20best%20football%20players/Images/Regression%20of%20height%20%26%20drib%20composure.png" width="500" height="500">
+ </p>
