@@ -1,5 +1,5 @@
 # Statistical-Analysis
-Statistical Analysis of 225 countries as well as the 15000 best football players in 2019 data set using **Regression**, **CLT**, **two-sided Hypothesis Test** and **different Probability distribution**, etc. in ***R***.
+Statistical Analysis of the 15000 best football players in 2019 data set and 225 countries of the world using **Regression**, **CLT**, **two-sided Hypothesis Test** and **different Probability distribution**, etc. in ***R***.
 
 ### 1. best football players in 2019 data set:
 This data set contains 225 countries' statistics of the followings:
